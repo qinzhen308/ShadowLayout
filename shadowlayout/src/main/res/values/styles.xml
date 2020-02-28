@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="ShadowLayoutDefault" parent="android:Widget">
+        <item name="cardShadowStartColor">@color/shadowlayout_shadow_start_color</item>
+        <item name="cardShadowEndColor">@color/shadowlayout_shadow_end_color</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+
+    </style>
+
+
+</resources>

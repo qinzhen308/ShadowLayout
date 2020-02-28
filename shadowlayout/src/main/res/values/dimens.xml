@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+
+</resources>
